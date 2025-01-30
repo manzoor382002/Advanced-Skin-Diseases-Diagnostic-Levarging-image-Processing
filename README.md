@@ -1,1 +1,2 @@
-# Advanced-Skin-Diseases-Diagnostic-Levarging-image-Processing
+#Infosys-Springboard-Internship-Project. #Advanced Skin Diseases Diagnosis Leveraging Image Processing.
+
